@@ -1,17 +1,17 @@
  h1{
-  font-family: verdana;
-  color:blue;
+  font-family: georgia;
+  color:aqua;
 }
 
- h2{
-  font-family: verdana;
-  color:blue;
+ p{
+  font-family: courier new;
+  color:darkviolet;
 }
 
-p{
- font-family: verdana;
+h2{
+ font-family: lucida console;
+ color:dodgerblue;
 }
 
-body {
-    background-color: #9966ff;
-}
+
+background:
